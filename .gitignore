@@ -17,3 +17,6 @@ Assets/Scripts/tags
 Assets/Scripts/tags.meta
 Thumbs.*
 *.userprefs
+
+# SpaceUnity
+Assets/SpaceUnity/
